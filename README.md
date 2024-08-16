@@ -58,10 +58,10 @@ CombineResults 29568666068035183841425683795340791879727309630931025356555_49580
 
 # Результаты
 Входные данные: 0, 1, 2, 3, 4, 52
-![alt text](src/filter1.jpg)
+![alt text](src/filter1.JPG)
 
 Входные данные: 1, 154, 132, 364, 4000, 42
-![alt text](src/filter2.jpg)
+![alt text](src/filter2.JPG)
 
 Входные данные: 100, 154, 132, 364, 4000, 42, 3, 123, 6333, 31544, 545, 343, 784, 12
-![alt text](src/filter3.jpg)
+![alt text](src/filter3.JPG)
